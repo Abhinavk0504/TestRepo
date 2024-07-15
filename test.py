@@ -1,4 +1,4 @@
 import time
 
-print(time.time_ns())
+print(time.time())
 print("Hello world")
